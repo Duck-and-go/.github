@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá 👋
+
+Essa o Duck and Go é uma organização que é somente para ficar projetos que são mais objetos de estudos e em geral não tão grandes 
+
+
 
 <!--
 
